@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My First Nerd Blog]]></title>
-  <link href="http://matthewbivins.github.io/atom.xml" rel="self"/>
-  <link href="http://matthewbivins.github.io/"/>
-  <updated>2014-03-05T10:40:06-06:00</updated>
-  <id>http://matthewbivins.github.io/</id>
+  <title><![CDATA[The Partially Unauthorized History of Jump, Little Children]]></title>
+  <link href="http://jumplittlechildren.github.io/atom.xml" rel="self"/>
+  <link href="http://jumplittlechildren.github.io/"/>
+  <updated>2014-03-05T10:45:06-06:00</updated>
+  <id>http://jumplittlechildren.github.io/</id>
   <author>
     <name><![CDATA[Matthew Bivins]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Two Predictions]]></title>
-    <link href="http://matthewbivins.github.io/blog/2014/03/03/my-first-nerdy-post/"/>
+    <link href="http://jumplittlechildren.github.io/blog/2014/03/03/my-first-nerdy-post/"/>
     <updated>2014-03-03T08:14:02-06:00</updated>
-    <id>http://matthewbivins.github.io/blog/2014/03/03/my-first-nerdy-post</id>
+    <id>http://jumplittlechildren.github.io/blog/2014/03/03/my-first-nerdy-post</id>
     <content type="html"><![CDATA[<p>When the band ended, there were two predictions made for what I was going to do after it was all over. That was such a time of wondering and worry: none of us had a clear idea exactly what we were going to do when the band ended. Well, maybe Ward did. He was going to write an album of country songs and maybe move to New York City. He did both things, bless his heart.</p>
 
 <p>But the predictions: one, that Evan and I were going to become web designers. &ldquo;Build websites&rdquo; was the phrase then. And here we are, doing just that. That premonition was given to us by our manager John Caldwell. He is definitely one for knowing a little bit about the future.</p>
